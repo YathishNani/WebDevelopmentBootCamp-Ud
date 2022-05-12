@@ -1,0 +1,54 @@
+.j{
+    background-image: url("C:/Users/Yathish nanaiah/Downloads/wp8196483-hd-iphone-mickey-mouse-wallpapers (1).jpg");
+    background-position: center;
+    background-size: 450px;
+    border: 5px solid whitesmoke
+}
+
+.card-content{
+    background-color: white;
+    background-size: 100%;
+} 
+
+.card{
+    /*background-image: linear-gradient(rgb(251, 0, 255), rgb(255, 92, 4));*/
+    font-family:  serif; 
+    border: 5px solid rgb(245, 245, 245);
+}
+
+.card-header-title{
+    justify-content: center;
+    color: ghostwhite;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+       /*background-image: linear-gradient(rgb(0, 8, 255), rgb(4, 201, 255));
+    */
+}
+
+.subtitle{
+    font-size: small;
+    background-color: rgb(212, 255, 0);
+}
+
+#playto{
+    background-color: orangered;
+    font-family: monospace;
+    color:white;
+    border: 4px solid;
+    
+    
+
+}
+
+.label{
+    background-color: white;
+    border: 15px solid white;
+}
+
+#p1B,#p2B,#Reset{
+    font-family:cursive;
+    padding: auto;
+}
+
+
